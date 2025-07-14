@@ -620,3 +620,10 @@ html {
     scroll-behavior: smooth;
 }
 
+
+.bg-hero {
+    background-image: url('mulher-orando.png');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
